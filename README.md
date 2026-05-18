@@ -4,7 +4,7 @@ Welcome to my personal archive of LeetCode solutions. I am a first-year Computer
 ### The Goal
 - **Duration:** 30 Days (Summer Break 2026)
 - **Primary Language:** Java ☕
-- **Focus:** Building logic, optimizing time complexity, and mastering recursion.
+- **Focus:** Building logic.
 
 ---
 
