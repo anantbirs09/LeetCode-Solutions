@@ -13,7 +13,7 @@ Welcome to my personal archive of LeetCode solutions. I am a first-year Computer
 |:---:|:---:|:---|:---:|:---:|
 | 1 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | Easy | [View Code](./Easy/AddDigits.java) |
 | 2 | 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/) | Easy | [View Code](./Easy/CreateHelloWorld.js) |
-| 3 | |(Coming Tomorrow..) | Easy | |
+| 3 | | [Coming Tomorrow..] | Easy | |
 
 ---
 
