@@ -17,7 +17,7 @@ Welcome to my personal archive of LeetCode solutions. I am a first-year Computer
 ---
 
 ### Tech Stack & Tools
-- **Language:** Java 17
+- **Language:** Java 17, JavaScript
 - **Editor:** VS Code
 - **Version Control:** Git & GitHub
 - **Logic Patterns:** Recursion, While-Loops, Digital Roots
