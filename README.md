@@ -15,6 +15,7 @@ Welcome to my personal archive of LeetCode solutions. I am a first-year Computer
 | 2 | 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/) | Easy | [View Code](./Easy/CreateHelloWorld.js) |
 | 3 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | [View Code](./Easy/UniqueCharacter.java) |
 | 4 | 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game) | Easy | [View Code](./Easy/MinimumNumberGame.java) |
+| 5 | 1832 | [Check If The Sentence is Panagram](https://leetcode.com/problems/check-if-the-sentence-is-pangram) | Easy | [View Code](./Easy/Pangram.java) |
 
 ---
 
