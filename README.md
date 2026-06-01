@@ -17,6 +17,7 @@ Welcome to my personal archive of LeetCode solutions. I am a first-year Computer
 | 4 | 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game) | Easy | [View Code](./Easy/MinimumNumberGame.java) |
 | 5 | 1832 | [Check If The Sentence is Panagram](https://leetcode.com/problems/check-if-the-sentence-is-pangram) | Easy | [View Code](./Easy/Pangram.java) |
 | 6 | 2114 | [Maximum Number Of Words Found In Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences) | Easy | [View Code](./Easy/Split.java) |
+| 7 | 2520 | [Count The Digits That Divide A Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number) | Easy | [View Code](./Easy/Division.java) |
 
 ---
 
