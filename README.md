@@ -19,6 +19,8 @@ Welcome to my personal archive of LeetCode solutions. I am a first-year Computer
 | 6 | 2114 | [Maximum Number Of Words Found In Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences) | Easy | [View Code](./Easy/Split.java) |
 | 7 | 2520 | [Count The Digits That Divide A Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number) | Easy | [View Code](./Easy/Division.java) |
 | 8 | 709 | [Lowercase](https://leetcode.com/problems/to-lower-case) | Easy | [View Code](./Easy/Lowercase.java) |
+| 9 | 2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number) | Easy | [View Code](./Easy/Maximum.java) |
+| 10 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | Easy | [View Code](./Easy/MaxWealth.java) |
 
 ---
 
