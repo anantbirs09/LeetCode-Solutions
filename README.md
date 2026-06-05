@@ -21,6 +21,8 @@ Welcome to my personal archive of LeetCode solutions. I am a first-year Computer
 | 8 | 709 | [Lowercase](https://leetcode.com/problems/to-lower-case) | Easy | [View Code](./Easy/Lowercase.java) |
 | 9 | 2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number) | Easy | [View Code](./Easy/Maximum.java) |
 | 10 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | Easy | [View Code](./Easy/MaxWealth.java) |
+| 11 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game) | Easy | [View Code](./Easy/Baseball.java) |
+
 
 ---
 
