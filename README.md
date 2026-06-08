@@ -25,7 +25,7 @@ Welcome to my personal archive of LeetCode solutions. I am a first-year Computer
 | 12 | 3232 | [Find If Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won) | Easy | [View Code](./Easy/Won.java) |
 | 13 | 202 | [Happy Number](https://leetcode.com/problems/happy-number) | Easy | [View Code](./Easy/Happy.java) |
 | 14 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | [View Code](./Easy/Anagram.java) |
-| 15 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-thegreatest-number-of-candies) | Easy | [View Code](./Easy/Candies.java) |
+| 15 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | Easy | [View Code](./Easy/Candies.java) |
 
 
 ---
