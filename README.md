@@ -26,6 +26,9 @@ Welcome to my personal archive of LeetCode solutions. I am a first-year Computer
 | 13 | 202 | [Happy Number](https://leetcode.com/problems/happy-number) | Easy | [View Code](./Easy/Happy.java) |
 | 14 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | [View Code](./Easy/Anagram.java) |
 | 15 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | Easy | [View Code](./Easy/Candies.java) |
+| 16 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | Easy | [View Code](./Easy/Palindrome.java) |
+| 17 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | Easy | [View Code](./Easy/TwoSum.java) |
+
 
 
 ---
