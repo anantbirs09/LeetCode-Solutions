@@ -28,6 +28,7 @@ Welcome to my personal archive of LeetCode solutions. I am a first-year Computer
 | 15 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | Easy | [View Code](./Easy/Candies.java) |
 | 16 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | Easy | [View Code](./Easy/Palindrome.java) |
 | 17 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | Easy | [View Code](./Easy/TwoSum.java) |
+| 18 | 55 | [Jump Game](https://leetcode.com/problems/jump-game) | Medium | [View Code](./Medium/Jump.java) |
 
 
 
