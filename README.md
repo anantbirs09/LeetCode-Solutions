@@ -29,6 +29,7 @@ Welcome to my personal archive of LeetCode solutions. I am a first-year Computer
 | 16 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | Easy | [View Code](./Easy/Palindrome.java) |
 | 17 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | Easy | [View Code](./Easy/TwoSum.java) |
 | 18 | 55 | [Jump Game](https://leetcode.com/problems/jump-game) | Medium | [View Code](./Medium/Jump.java) |
+| 19 | 7 | [Jump Game](https://leetcode.com/problems/reverse-integer) | Medium | [View Code](./Medium/Rev.java) |
 
 
 
