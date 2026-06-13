@@ -30,7 +30,7 @@ Welcome to my personal archive of LeetCode solutions. I am a first-year Computer
 | 17 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | Easy | [View Code](./Easy/TwoSum.java) |
 | 18 | 55 | [Jump Game](https://leetcode.com/problems/jump-game) | Medium | [View Code](./Medium/Jump.java) |
 | 19 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | Medium | [View Code](./Medium/Rev.java) |
-| 20 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) | Medium | [View Code](./Partition/Rev.java) |
+| 20 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) | Medium | [View Code](./Medium/Partition.java) |
 
 
 
