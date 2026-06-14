@@ -31,7 +31,7 @@ Welcome to my personal archive of LeetCode solutions. I am a first-year Computer
 | 18 | 55 | [Jump Game](https://leetcode.com/problems/jump-game) | Medium | [View Code](./Medium/Jump.java) |
 | 19 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | Medium | [View Code](./Medium/Rev.java) |
 | 20 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) | Medium | [View Code](./Medium/Partition.java) |
-| 21 | 416 | [Car Pooling](https://leetcode.com/problems/car-pooling) | Medium | [View Code](./Medium/Car.java) |
+| 21 | 1094 | [Car Pooling](https://leetcode.com/problems/car-pooling) | Medium | [View Code](./Medium/Car.java) |
 
 
 
