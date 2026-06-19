@@ -32,7 +32,9 @@ Welcome to my personal archive of LeetCode solutions. I am a first-year Computer
 | 19 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | Medium | [View Code](./Medium/Rev.java) |
 | 20 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) | Medium | [View Code](./Medium/Partition.java) |
 | 21 | 1094 | [Car Pooling](https://leetcode.com/problems/car-pooling) | Medium | [View Code](./Medium/Car.java) |
-
+| 22 | 1657 | [Determine if two Strings are Close](https://leetcode.com/problems/determine-if-two-strings-are-close) | Medium | [View Code](./Medium/Strings.java) |
+| 23 | 2807 | [Insert Greatest Common Divisor in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list) | Medium | [View Code](./Medium/HCF.java) |
+| 24 | 1347 | [Minimum Numbers of steps to make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram) | Medium | [View Code](./Medium/2Anangram.java) |
 
 
 ---
